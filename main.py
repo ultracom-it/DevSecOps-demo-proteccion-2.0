@@ -1,5 +1,5 @@
 #import numpy as np
-#import pandas as p
+#import pandas as pd
 
 a=1
 b=2
